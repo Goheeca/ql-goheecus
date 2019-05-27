@@ -1,1 +1,1 @@
-2012-09-30 http://hyperprostor.g6.cz/ql/dist/goheecus/2012-09-30/distinfo.txt
+2012-09-30 https://goheeca.github.io/ql-goheecus/dist/goheecus/2012-09-30/distinfo.txt

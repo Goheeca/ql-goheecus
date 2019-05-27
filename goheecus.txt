@@ -1,7 +1,7 @@
 name: goheecus
 version: 2012-09-30
-system-index-url: http://hyperprostor.g6.cz/ql/dist/goheecus/2012-09-30/systems.txt
-release-index-url: http://hyperprostor.g6.cz/ql/dist/goheecus/2012-09-30/releases.txt
-archive-base-url: http://hyperprostor.g6.cz/ql/
-canonical-distinfo-url: http://hyperprostor.g6.cz/ql/dist/goheecus/2012-09-30/distinfo.txt
-distinfo-subscription-url: http://hyperprostor.g6.cz/ql/goheecus.txt
+system-index-url: https://goheeca.github.com/ql-goheecus/dist/goheecus/2012-09-30/systems.txt
+release-index-url: https://goheeca.github.com/ql-goheecus/dist/goheecus/2012-09-30/releases.txt
+archive-base-url: https://goheeca.github.com/ql-goheecus/
+canonical-distinfo-url: https://goheeca.github.com/ql-goheecus/dist/goheecus/2012-09-30/distinfo.txt
+distinfo-subscription-url: https://goheeca.github.com/ql-goheecus/goheecus.txt
