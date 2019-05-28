@@ -6,7 +6,7 @@ I've created this for a need to macroize the [commonqt](http://common-lisp.net/p
 
 ## Download
 
-The _asdf-install_able package: [cl-rttemplate.tar.gz](https://goheeca.github.io/ql-goheecus/lisp/cl-rttemplate/cl-rttemplate-20120211.tgz)
+The *asdf-install*able package: [cl-rttemplate.tar.gz](http://ql-goheecus.goheeca.ga/lisp/cl-rttemplate/cl-rttemplate-20120211.tgz)
 
 ## API
 

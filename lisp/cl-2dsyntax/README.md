@@ -4,7 +4,7 @@ The `cl-2dsyntax` is an indentation-sensitive reader system. Published in the pu
 
 ## Download
 
-The _asdf-install_able package: [cl-2dsyntax.tar.gz](https://goheeca.github.com/ql-goheecus/lisp/cl-2dsyntax/cl-2dsyntax-20120820.tgz)
+The *asdf-install*able package: [cl-2dsyntax.tar.gz](https://goheeca.github.com/ql-goheecus/lisp/cl-2dsyntax/cl-2dsyntax-20120820.tgz)
 
 ## Usage
 

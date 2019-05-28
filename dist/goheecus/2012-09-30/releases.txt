@@ -1,3 +1,3 @@
 # project url size file-md5 content-sha1 prefix [system-file1..system-fileN]
-cl-2dsyntax https://goheeca.github.io/ql-goheecus/lisp/cl-2dsyntax/cl-2dsyntax-20120820.tgz 2177 dd7509a968205460a77a96ac6e95323b e661c08e4c78fa97880849057046318a244c9403 cl-2dsyntax-20120820 cl-2dsyntax.asd
-cl-rttemplate https://goheeca.github.io/ql-goheecus/lisp/cl-rttemplate/cl-rttemplate-20120211.tgz 1235 705f3aa34e9937bdb8661ad3d997eedf dd7b35909d95d8e854c8c88864d694303b211dc9 cl-rttemplate-20120211 cl-rttemplate.asd
+cl-2dsyntax http://ql-goheecus.goheeca.ga/lisp/cl-2dsyntax/cl-2dsyntax-20120820.tgz 2177 dd7509a968205460a77a96ac6e95323b e661c08e4c78fa97880849057046318a244c9403 cl-2dsyntax-20120820 cl-2dsyntax.asd
+cl-rttemplate http://ql-goheecus.goheeca.ga/lisp/cl-rttemplate/cl-rttemplate-20120211.tgz 1235 705f3aa34e9937bdb8661ad3d997eedf dd7b35909d95d8e854c8c88864d694303b211dc9 cl-rttemplate-20120211 cl-rttemplate.asd

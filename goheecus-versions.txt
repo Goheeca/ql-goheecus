@@ -1,1 +1,1 @@
-2012-09-30 https://goheeca.github.io/ql-goheecus/dist/goheecus/2012-09-30/distinfo.txt
+2012-09-30 http://ql-goheecus.goheeca.ga/dist/goheecus/2012-09-30/distinfo.txt
